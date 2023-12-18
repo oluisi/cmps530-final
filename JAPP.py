@@ -3,7 +3,7 @@ JAPP.py
 Author: Olivia Luisi
 This file is for testing. Its completely cleaned
 for grading and unused code is moved to leftovers.py
-for browsing on my process. 
+for browsing on my process.
 """
 import geopandas as gpd
 import pandas as pd
